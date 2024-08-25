@@ -1,0 +1,2 @@
+Prefix plugins/BFC/example/
+Plugin BFC inputfile Test-100.fq.gz outputfile corrected.fq.gz
